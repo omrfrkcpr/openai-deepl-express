@@ -24,8 +24,8 @@ This project is an Express.js-based REST API that leverages OpenAI, DeepL, and D
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ai-powered-rest-api.git
-   cd ai-powered-rest-api
+   git clone https://github.com/omrfrkcpr/openai-deepl-express.git
+   cd openai-deepl-express
    ```
 
 2. Install the dependencies:
